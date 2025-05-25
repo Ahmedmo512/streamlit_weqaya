@@ -90,6 +90,7 @@ col1, col2, col3 = st.columns([1, 8, 1])
 with col2:
     hero_img = "https://www.aeologic.com/blog/wp-content/uploads/2023/09/Health-Care-with-Artificial-Intelligence.png"
     st.image(hero_img, caption="AI in Healthcare")
+    
 
 # ---------- KEY FEATURES ----------
 st.markdown("## 🔍 Core Features")
